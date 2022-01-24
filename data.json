@@ -1,0 +1,25 @@
+[{
+        "title": "What is Ninja?",
+        "subtitle": "Ninja คือ คำว่านินจาเป็นคำจากภาษาญี่ปุ่น “忍者” เชื่อว่ามีการใช้มาประมาณ 800 ปีก่อนNinja",
+        "imgUrl": "https://cdn.pixabay.com/photo/2020/11/27/22/07/naruto-5783102_960_720.png",
+        "detail": ""
+    },
+    {
+        "title": "What is Naruto?",
+        "subtitle": "Naruto is a shinobi of Konohagakure's Uzumaki clan. He became the jinchūriki.",
+        "imgUrl": "https://cdn.pixabay.com/photo/2021/08/31/09/54/anime-6588363_960_720.jpg",
+        "detail": ""
+    },
+    {
+        "title": "What is Chinobi?",
+        "subtitle": "Shinobi (忍び) ซึ่งมีความหมายว่าหลบซ่อน ทำลับๆ ล่อๆ ... นอกจากการเรียกว่านินจาแล้ว ",
+        "imgUrl": "https://cdn.pixabay.com/photo/2017/01/25/10/39/ninja-2007576_960_720.jpg",
+        "detail": ""
+    },
+    {
+        "title": "What is Anime?",
+        "subtitle": " is hand-drawn and computer animation originating from Japan. In Japan . ",
+        "imgUrl": "https://cdn.pixabay.com/photo/2017/01/25/10/39/ninja-2007576_960_720.jpg",
+        "detail": ""
+    }
+]
